@@ -1,0 +1,10 @@
+[browser]
+gatherUsageStats = false      # не надсилати статистику використання
+
+[server]
+headless = true
+address = "localhost"         # доступ лише з цього комп'ютера, не з локальної мережі
+maxUploadSize = 5             # МБ: робоче місце не приймає великих файлів
+
+[client]
+toolbarMode = "viewer"        # без кнопки Deploy і меню розробника

@@ -1,0 +1,10 @@
+.env
+.venv/
+.git/
+workbench.db
+chroma_data/
+runs/
+__pycache__/
+.pytest_cache/
+tests/
+*.zip
